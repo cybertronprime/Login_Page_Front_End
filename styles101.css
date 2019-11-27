@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+html,body{
+background-image: url('img.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+color: black;
+background-attachment:fixed;
+
+
+
+
+font-family: 'Numans', sans-serif;
+}
+.card{
+	height: 280px;
+
+
+
+background-color: rgba(0,0,0,0.5) !important;
+}
+
+.input-group-prepend span{
+	background-color: #28a745!important;;
+	color: black;
+border:0 !important;
+}
+.card-header h3{
+	color: white;
+}
+table{
+	width: 450px;
+}
+tr{
+	font-size: 15px;
+
+}
